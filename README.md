@@ -26,7 +26,7 @@ LED indicators are used to display the outputs.
 
 ## Software Used
 - Proteus Design Suite
-- 
+
 ## Author
 Tamim Hossain 
 ECE,KUET
